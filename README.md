@@ -37,12 +37,12 @@ Com todos os devidos componentes encaixados e ligados conforme o desenho esquem�
 
 ### Desenho esquemático
 
-![]()
+![](./img/pcb_desenho_esquematico.png)
 
 ### Design de PCB
 
-![]()
+![](./img/pcb_design.png)
 
 ### Visualização 3D
 
-![]()
+![](./img/pcb_3d_view.png)
