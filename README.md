@@ -23,11 +23,11 @@ Essa PCB foi projetada através do software Kicad, que não tem suporte oficial 
 
 ## Componentes utilizados
 
-1x Raspberry Pi Pico
-1x Transistor
-1x Resistor de 1kΩ
-1x Resistor de 220Ω
-1x LED simples
+- 1x Raspberry Pi Pico
+- 1x Transistor
+- 1x Resistor de 1kΩ
+- 1x Resistor de 220Ω
+- 1x LED simples
 
 ## Funcionamento
 
