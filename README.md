@@ -2,7 +2,7 @@
 
 Esse repositório armazena um projeto simples de PCB (Printed Circuit Board, ou Placa de Circuito Impresso em português) de um circuito para acender e apagar um LED a partir de um transistor e um Raspberry Pi Pico.
 
-Essa PCB foi projetada através do software Kicad.
+Essa PCB foi projetada através do software Kicad, que não tem suporte oficial para o Raspberry Pi Pico. Portanto, para abrir e visualizar os arquivos do projeto adequadamente, você deve seguir as instruções [neste outro respositório](https://github.com/ncarandini/KiCad-RP-Pico).
 
 ## Estrutura de pastas
 
